@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "48037-0001")(type "Legacy")(uri "${KIPRJMOD}/lib/MOLEX_48037-0001/48037-0001.lib")(options "")(descr ""))
+  (lib (name "RP2040")(type "Legacy")(uri "${KIPRJMOD}/lib/RP2040/RP2040.lib")(options "")(descr ""))
+)

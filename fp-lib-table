@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "MOLEX_48037-0001")(type "KiCad")(uri "${KIPRJMOD}/lib/MOLEX_48037-0001")(options "")(descr ""))
+  (lib (name "RP2040")(type "KiCad")(uri "${KIPRJMOD}/lib/RP2040")(options "")(descr ""))
+)
