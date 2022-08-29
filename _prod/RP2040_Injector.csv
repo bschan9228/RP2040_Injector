@@ -1,13 +1,16 @@
-Comment,Designator,Footprint,LCSC Part #,Quantity,x5
-10u Unpolarized capacitor,"C1,C2",C_0805_2012Metric,C83061,2,10
-100n Unpolarized capacitor,"C3,C4,C5,C6,C7,C8,C9,C11,C12,C14",C_0402_1005Metric,C237172,10,50
-1u Unpolarized capacitor,"C10,C13",C_0402_1005Metric,C77009,2,10
-15p Unpolarized capacitor,"C15,C16",C_0402_1005Metric,C441742,2,10
-"12MHz Four pin crystal, GND on pins 2 and 4",HSE1,Crystal_SMD_SeikoEpson_FA238-4Pin_3.2x2.5mm,C32531,1,5
-USB-A ,J1,MOLEX_48037-0001,C136455,1,5
-"Conn_01x02 Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",J2,PinHeader_1x02_P2.54mm_Vertical,,0,0
-1k Resistor,R1,R_0402_1005Metric,C242161,1,5
-27 Resistor,"R2,R3",R_0402_1005Metric,C413051,2,10
-"NCP1117-3.3_SOT223 1A Low drop-out regulator, Fixed Output 3.3V, SOT-223",U1,SOT-223-3_TabPin2,C20546,1,5
-"W25Q128JVS 128Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8",U2,SOIC-8_5.23x5.23mm_P1.27mm,C97521,1,5
-RP2040 ,U3,QFN40P700X700X90-57N,C2040,1,5
+Comment,Designator,Footprint,LCSC Part #
+100n Unpolarized capacitor,"C1,C2,C3,C4,C5,C6,C7,C9,C10,C16",C_0402_1005Metric,
+1u Unpolarized capacitor,"C8,C11",C_0402_1005Metric,
+10u Unpolarized capacitor,"C12,C13",C_0805_2012Metric,
+20p Unpolarized capacitor,"C14,C15",C_0402_1005Metric,
+LED Light emitting diode,D1,LED_0603_1608Metric,
+"0805L050WR Resettable fuse, polymeric positive temperature coefficient",F1,Fuse_0805_2012Metric,
+"12MHz Four pin crystal, GND on pins 2 and 4",HSE1,Crystal_SMD_SeikoEpson_FA238-4Pin_3.2x2.5mm,
+USB-A ,J1,MOLEX_48037-0001,
+"Conn_01x02 Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",J2,PinHeader_1x02_P2.00mm_Vertical,
+2k2 Resistor,R1,R_0402_1005Metric,
+1k Resistor,"R2,R5",R_0402_1005Metric,
+27 Resistor,"R3,R4",R_0402_1005Metric,
+"NCP1117-3.3_SOT223 1A Low drop-out regulator, Fixed Output 3.3V, SOT-223",U1,SOT-223-3_TabPin2,
+RP2040 ,U2,QFN40P700X700X90-57N,
+"W25Q128JVS 128Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8",U3,SOIC-8_5.23x5.23mm_P1.27mm,

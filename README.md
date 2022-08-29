@@ -1,1 +1,1 @@
-RP204 USB Type-A Injector
+4-layer RP2040 USB Type-A Injector
